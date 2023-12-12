@@ -46,9 +46,12 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![EX 8](https://github.com/23007784/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139115570/0a8fe8b2-472c-4722-8b80-5e8aeced69a0)
 
-### Name:
-### Register Number:
+![guitar output](https://github.com/23007784/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139115570/6020594c-8cf1-4d01-b7ef-5a6816e2430c)
+
+### Name:NIKSHITHA G
+### Register Number:23007784
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
